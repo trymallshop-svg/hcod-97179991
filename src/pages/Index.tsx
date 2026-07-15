@@ -3,9 +3,9 @@ import HeroSection from "@/components/HeroSection";
 import AboutSection from "@/components/AboutSection";
 import ServicesSection from "@/components/ServicesSection";
 import SolutionsSection from "@/components/SolutionsSection";
-import PortfolioSection from "@/components/PortfolioSection";
 import ContactSection from "@/components/ContactSection";
 import Footer from "@/components/Footer";
+import FloatingWhatsApp from "@/components/FloatingWhatsApp";
 
 const Index = () => {
   return (
@@ -15,9 +15,9 @@ const Index = () => {
       <AboutSection />
       <ServicesSection />
       <SolutionsSection />
-      <PortfolioSection />
       <ContactSection />
       <Footer />
+      <FloatingWhatsApp />
     </main>
   );
 };
