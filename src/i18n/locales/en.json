@@ -1,0 +1,132 @@
+{
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "solutions": "Solutions",
+    "contact": "Contact",
+    "cta": "Get a Quote",
+    "lang": "العربية"
+  },
+  "hero": {
+    "badge": "Innovation • Technology • Excellence",
+    "title1": "We Build",
+    "titleAccent": "Intelligent",
+    "title2": "Digital Solutions",
+    "subtitle": "Custom software development, mobile applications, websites, and advanced tech solutions for businesses ready to transform.",
+    "cta1": "Get a Quote",
+    "cta2": "Explore Services",
+    "stats": {
+      "projects": "Projects",
+      "satisfaction": "Satisfaction",
+      "support": "Support"
+    }
+  },
+  "about": {
+    "tag": "About HCOD",
+    "title1": "Building the Future of",
+    "titleAccent": "Digital Excellence",
+    "p1": "HCOD is a leading provider of custom digital solutions, dedicated to transforming businesses through innovative technology. We combine technical expertise with creative thinking to deliver software that drives real results.",
+    "p2": "From startups to enterprises, we partner with ambitious organizations to create scalable, secure, and beautiful digital products that stand out in today's competitive landscape.",
+    "trusted": "Trusted technologies we work with",
+    "features": {
+      "f1t": "Innovation First",
+      "f1d": "Cutting-edge technologies and modern approaches to solve complex problems.",
+      "f2t": "Quality Assured",
+      "f2d": "Rigorous testing and best practices ensure reliable, scalable solutions.",
+      "f3t": "On-Time Delivery",
+      "f3d": "Agile methodology and efficient workflows keep projects on schedule.",
+      "f4t": "Long-term Support",
+      "f4d": "Dedicated support and maintenance to keep your systems running smoothly."
+    }
+  },
+  "services": {
+    "tag": "Our Services",
+    "title": "Comprehensive Digital Solutions",
+    "subtitle": "From concept to deployment, we offer end-to-end services to bring your digital vision to life.",
+    "items": {
+      "s1t": "Mobile App Development",
+      "s1d": "Native and cross-platform mobile applications for iOS and Android that deliver exceptional user experiences.",
+      "s2t": "Website Development",
+      "s2d": "Modern, responsive websites built with the latest technologies to establish your digital presence.",
+      "s3t": "Custom Software Solutions",
+      "s3d": "Tailored software systems designed to streamline your operations and solve unique business challenges.",
+      "s4t": "E-commerce Solutions",
+      "s4d": "Full-featured online stores with secure payments, inventory management, and seamless shopping experiences.",
+      "s5t": "UI/UX Design",
+      "s5d": "Beautiful, intuitive interfaces that engage users and create memorable digital experiences.",
+      "s6t": "API Development & Integration",
+      "s6d": "Robust APIs and seamless system integrations to connect your digital ecosystem."
+    }
+  },
+  "solutions": {
+    "tag": "Software Solutions",
+    "title": "Ready-Made Solutions, Custom Fit",
+    "subtitle": "Pre-built software packages that can be customized to your specific business requirements.",
+    "items": {
+      "p1t": "POS Systems",
+      "p1d": "Complete point-of-sale solutions for retail, restaurants, and service businesses with inventory tracking and analytics.",
+      "p1f": ["Real-time inventory", "Sales analytics", "Multi-location support"],
+      "p2t": "ERP & Management Solutions",
+      "p2d": "Enterprise resource planning systems to streamline operations, finance, HR, and supply chain management.",
+      "p2f": ["Process automation", "Financial reporting", "Resource planning"],
+      "p3t": "Booking & Reservation Systems",
+      "p3d": "Smart scheduling platforms for appointments, reservations, and resource management across industries.",
+      "p3f": ["Online booking", "Calendar sync", "Automated reminders"],
+      "p4t": "Marketplace & E-commerce Platforms",
+      "p4d": "Scalable marketplace solutions connecting buyers and sellers with secure transactions and logistics.",
+      "p4f": ["Multi-vendor support", "Payment gateway", "Order management"]
+    }
+  },
+  "contact": {
+    "tag": "Contact Us",
+    "title1": "Let's Build Something",
+    "titleAccent": "Amazing",
+    "subtitle": "Ready to transform your business with cutting-edge technology? Get in touch and let's discuss your project.",
+    "emailLabel": "Email us at",
+    "phoneLabel": "Call / WhatsApp",
+    "locationLabel": "Location",
+    "location": "Egypt - Giza",
+    "form": {
+      "name": "Your Name",
+      "namePh": "John Doe",
+      "email": "Email Address",
+      "emailPh": "john@example.com",
+      "phone": "Phone (optional)",
+      "phonePh": "+20 ...",
+      "message": "Your Message",
+      "messagePh": "Tell us about your project...",
+      "send": "Send Message",
+      "whatsapp": "WhatsApp Us",
+      "sending": "Sending...",
+      "success": "Message sent!",
+      "successDesc": "We'll get back to you as soon as possible.",
+      "error": "Something went wrong",
+      "errorDesc": "Please try again or contact us on WhatsApp.",
+      "sourceLabels": {
+        "hero_quote": "Hero — Get a Quote",
+        "hero_services": "Hero — Explore Services",
+        "nav": "Navbar CTA",
+        "service": "Service: {{name}}",
+        "solution": "Solution: {{name}}",
+        "contact_form": "Contact Section"
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Building intelligent digital solutions that transform businesses and drive innovation.",
+    "services": "Services",
+    "solutions": "Solutions",
+    "company": "Company",
+    "companyLinks": {
+      "about": "About Us",
+      "contact": "Contact"
+    },
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "whatsapp": {
+    "float": "Chat on WhatsApp",
+    "defaultMsg": "Hello HCOD, I'd like to know more about your services."
+  }
+}
